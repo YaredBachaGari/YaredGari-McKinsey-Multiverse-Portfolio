@@ -2,7 +2,7 @@
 
   <h1 align="center" >Multiverse Apprenticeship Final Portfolio</h1>
   <p align="center">
-  <img src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg" alt="background image" height="100">
+  <img src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg" alt="background image" height="100" width="100%">
 </p>
 
   <p>
