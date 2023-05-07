@@ -1,6 +1,10 @@
 <a name="readme-top"></a>
 
-  <h1 align="center" style="background-image: url('https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg'); height: 150px; color: black; font-weight: bold;">Multiverse Apprenticeship Final Portfolio</h1>
+  <h1 align="center" >Multiverse Apprenticeship Final Portfolio</h1>
+  <p align="center">
+  <img src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg" alt="background image" height="100">
+</p>
+
   <p>
   Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse, in addition to my contributions as a full-stack developer at McKinsey & Company between 2022 and 2023. Furthermore, I have included a selected personal software development projects for demonstration purpose.Please note that going forward, I will use "the firm" instead of "McKinsey & Company" to shorten the name. 
   </p>
