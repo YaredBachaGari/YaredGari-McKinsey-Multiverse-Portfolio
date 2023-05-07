@@ -48,7 +48,7 @@ Similar to the Durable Skills directory, I have also created a separate director
 
 <!-- CONTACT -->
 
-## Contact
+## 📧 Contact
 
 - Name: Yared Gari
 - Email:yaredbacha@gmail.com
@@ -58,7 +58,7 @@ Similar to the Durable Skills directory, I have also created a separate director
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+## 🙏🏽 Acknowledgments
 
 I would like to express my sincere gratitude to Multiverse for their excellent teaching curriculum and continued guidance and support throughout my apprenticeship period. Their efforts have truly helped me shift from a beginner to a confident developer, and I am grateful for the opportunities they provided me.
 
