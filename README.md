@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-  <h1 align="center" style="background-image: url('https://plus.unsplash.com/premium_photo-1668473366796-636e38929ddd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80'); height: 150px; font-weight: bold;">Multiverse Apprenticeship Final Portfolio</h1>
+  <h1 align="center" style="background-image: url('https://unsplash.com/photos/Qxk7H5_T510'); height: 150px; font-weight: bold;">Multiverse Apprenticeship Final Portfolio</h1>
   <p>
   Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse, in addition to my contributions as a full-stack developer at McKinsey & Company between 2022 and 2023. Furthermore, I have included a selected personal software development projects for demonstration purpose.Please note that going forward, I will use "the firm" instead of "McKinsey & Company" to shorten the name. 
   </p>
