@@ -2,7 +2,7 @@
 
   <h1 align="center">Multiverse Apprenticeship Final Portfolio</h1>
   <h3>Summary</h3>
-  <p align="center">
+  <p>
   Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse, in addition to my contributions as a full-stack developer at McKinsey & Company between 2022 and 2023. Furthermore, I have included a selected personal software development projects for demonstration purpose.Please note that going forward, I will use "the firm" instead of "McKinsey & Company" to shorten the name. 
   </p>
 </div>
@@ -46,12 +46,10 @@ Similar to the Durable Skills directory, I have also created a separate director
 <!-- CONTACT -->
 
 ## Contact
-Name: Yared Gari
-Email:yaredbacha@gmail.com
-deployed portfolio: https://yared-portfolio.vercel.app/
+- Name: Yared Gari
+- Email:yaredbacha@gmail.com
+- deployed portfolio: https://yared-portfolio.vercel.app/
 
-
-Project Link: [https://github.com/ianmkinney/mck-mv-final-portfolio/durable_projects](https://github.com/ianmkinney/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
