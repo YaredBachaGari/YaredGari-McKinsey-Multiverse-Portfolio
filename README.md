@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
-  <h1 align="center" >Multiverse Apprenticeship Final Portfolio</h1>
+  <h1 align="center" >Multiverse And Mckinsey & Co. Apprenticeship Final Portfolio</h1>
   <p align="center">
   <img src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg" alt="background image" height="150" width="100%">
 </p>
 
   <p>
-  Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse, in addition to my contributions as a full-stack developer at McKinsey & Company between 2022 and 2023. Furthermore, I have included a selected personal software development projects for demonstration purpose.Please note that going forward, I will use "the firm" instead of "McKinsey & Company" to shorten the name. 
+  Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse as well as Mckinsey & Company between 2022 and 2023. Furthermore, I have also included a selected personal projects for showcase. 
   </p>
 </div>
 
@@ -24,9 +24,21 @@
 
 <!-- Overview -->
 
-## 🗒️ Overview
 
-During my apprenticeship at McKinsey & Company, I was able to contribute directly to the development and release of new features, such as McKinsey Quarterly and McKinsey Insights Store. I also collaborated on improving and adding functionalities to the existing McKinsey.com code base. However, due to proprietary product and code information being confidential, it would be overwhelming and against firm policy to share specific details publicly. Instead, I will highlight my contributions to McKinsey & Company in general and showcase the skillset, technology stacks, and software development life cycle methodology that I have learned and applied to both my Multiverse apprenticeship and personal projects.
+## 🗒️ Overview of Apprenticeship
+- Apprentice Name: Yared Gari
+- Hosting Company:McKinsey & Company
+- Duration: 15 Months
+- Github: https://github.com/YaredBachaGari/YaredGari-McKinsey-Multiverse-Portfolio
+- Website : https://yaredgari-portfolio.vercel.app/projects
+
+## 👋 Introduction:
+
+Hello, my name is Yared Gari, and I am currently working as a software engineering apprentice at McKinsey & Company and Multiverse. I have always enjoyed working with computers and solving problems, which is why I chose to pursue a career in software engineering. I find the daily challenges that software engineers face to be exciting, and I am always eager to tackle new problems. I am particularly fascinated by data-driven intelligent applications and their ability to simplify human life.
+
+During my apprenticeship at Multiverse between 2022-2023, I completed my full-stack software career path training and worked on various collaborative and individual projects. I also had the opportunity to apply what I learned to real-world projects at McKinsey & Company. I contributed to the development of recently released products such as the McKinsey Quarterly digital and McKinsey Insight Stores web applications, which added thousands of new users to our user base within the first three months. However, due to the confidential nature of proprietary product and code information, I am unable to share specific details publicly. Instead, I will focus on my contributions and learning experiences from group and personal projects.
+
+Throughout this period, I learned every step of the software development process, from requirement analysis to design, development, testing, deployment, maintenance, and agile ceremonies. Moreover, I acquired valuable skills such as collaboration with team members, working in a fast-paced environment, meeting deadlines and expectations, and proactively communicating with team members. Currently, I am exploring advanced best practices, architectures, and performance optimization, integrating applications with Open AI API and other cutting-edge technologies to build scalable, reliable, and maintainable applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
