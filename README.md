@@ -56,7 +56,7 @@ As we all know, durable and soft skills are essential components for software de
 
 Similar to the Durable Skills directory, I have also created a separate directory called "Technical Skills" with its own ReadMe file. Under this section, I have outlined and presented projects that I created during my training at Multiverse and my personal projects separately. Each project demonstrates different phases of the software development life cycle, architectural decisions, and technology choices with examples. For more information, please refer to the Technical Skills directory.
 
-<p align="right">(<a href="#technical">back to top</a>)</p> --> -->
+<p align="right">(<a href="#technical">back to top</a>)</p> --> 
 
 <!-- CONTACT -->
 
