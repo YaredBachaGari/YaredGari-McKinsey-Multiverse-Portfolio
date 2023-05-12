@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-  <h1 align="center" >Multiverse And Mckinsey & Co. Apprenticeship Final Portfolio</h1>
+  <h1 align="center" >Final Portfolio</h1>
   <p align="center">
   <img src="https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg" alt="background image" height="150" width="100%">
 </p>
