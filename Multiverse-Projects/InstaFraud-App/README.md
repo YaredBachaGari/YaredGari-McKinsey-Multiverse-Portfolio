@@ -18,6 +18,18 @@ This project is an InstaFraud social networking application.The major objective 
 * Postman 
 * Docker
 
+## Competencies
+JF XX.XX
+- List the full text of the job function first
+- Describe a situation where you demonstrated this job function.
+- Summarize the actions you took to accomplish the goal.
+- Emphasize the results of this action for your team or your learning.
+- Connect the competentcy to this project
+
+JF 3.1 
+* Understands how to develop effective user interfaces
+
+
 ## Development setup Instructions
 
 For a local development setup, depending on which section of the application you want run, use the following commands to install all dependencies and spin the server. Potentially do this for multiple platforms.

@@ -6,7 +6,7 @@
 </p>
 
   <p>
-  Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse as well as Mckinsey & Company between 2022 and 2023. Furthermore, I have also included a selected personal projects for showcase. When you open each projects you will find a brief about the project, technologies i used, acquired skillsets and instructions to run the project on your machine. 
+  Within this repository, you will discover a compilation of projects that exemplify my skills on the design and implementation of web applications, while following all software life cycle phases. These projects reflect my progress throughout a 15-month apprenticeship with Multiverse as well as Mckinsey & Company between 2022 and 2023. Furthermore, I have also included a selected personal projects for showcase. When you open each projects you will find a brief about the project,features, technologies i used, skill competencies and instructions to run the project on your machine. 
   </p>
 </div>
 
@@ -14,9 +14,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#overview">Overview</a></li>
-    <!-- <li><a href="#durable">Durable Skills</a></li>
-    <li><a href="#technical">Technical Skills</a></li> -->
+    <li><a href="#overview">Overview of Apprenticeship</a></li>
     <li><a href="#contact">Contact Me</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -24,8 +22,8 @@
 
 <!-- Overview -->
 
-
 ## 🗒️ Overview of Apprenticeship
+
 - Apprentice Name: Yared Gari
 - Hosting Company:McKinsey & Company
 - Duration: 15 Months
@@ -41,22 +39,6 @@ During my apprenticeship at Multiverse between 2022-2023, I completed my full-st
 Throughout this period, I learned every step of the software development process, from requirement analysis to design, development, testing, deployment, maintenance, and agile ceremonies. Moreover, I acquired valuable skills such as collaboration with team members, working in a fast-paced environment, meeting deadlines and expectations, and proactively communicating with team members. Currently, I am exploring advanced best practices, architectures, and performance optimization, integrating applications with Open AI API and other cutting-edge technologies to build scalable, reliable, and maintainable applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Durable Skills Section -->
-
-<!-- ### ⚙️ Durable Skills
-
-As we all know, durable and soft skills are essential components for software development. They help to speed up the development process, understand the requirements, create a common goal among team members, and deliver high-quality services and products to users or clients. To showcase the skills I have acquired during my journey, I have created a separate directory within this repository called "Durable Skills" with its own descriptive ReadMe file. This directory outlines my contributions and learnings at both Multiverse and the firm.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Technical Projects Section -->
-
-<!-- ### 🛠️ Technical Skills
-
-Similar to the Durable Skills directory, I have also created a separate directory called "Technical Skills" with its own ReadMe file. Under this section, I have outlined and presented projects that I created during my training at Multiverse and my personal projects separately. Each project demonstrates different phases of the software development life cycle, architectural decisions, and technology choices with examples. For more information, please refer to the Technical Skills directory.
-
-<p align="right">(<a href="#technical">back to top</a>)</p> --> 
 
 <!-- CONTACT -->
 
