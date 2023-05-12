@@ -1,0 +1,70 @@
+.namefontWeight {
+  font-weight: bold;
+}
+.postContol {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1.5rem 3rem 3rem;
+  width: 85%;
+}
+
+.modalContainer {
+  background-color: rgb(7, 6, 6);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(76, 76, 76, 0.9);
+}
+.modalCardCont {
+  min-width: 250px;
+  max-width: 500px;
+  height: 330px;
+  margin: 5rem auto;
+  background-color: #e3e3e3;
+  z-index: 200;
+  opacity: 1;
+}
+.closebtn {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 1rem;
+  margin-right: 1.5rem;
+}
+#size {
+  font-size: 2.5rem;
+}
+.modalCardCont textarea {
+  width: 90%;
+  height: 14rem;
+  margin-left: 1rem;
+  padding: 1rem;
+  font-size: 1.35rem;
+  border: solid 0.5px rgb(115, 113, 113);
+  resize: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+.image-url {
+  width: 90%;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  font-size: 1.35rem;
+  border: solid 0.5px rgb(115, 113, 113);
+  resize: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+.closebtn {
+  cursor: pointer;
+}
+.file-input {
+  font-size: 1.15rem;
+}

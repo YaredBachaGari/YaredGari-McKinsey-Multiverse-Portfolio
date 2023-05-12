@@ -1,0 +1,54 @@
+.footer-container{
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    margin-bottom: 0;
+    background-color: #E3E3E3;
+    padding:  5% 10%;
+    border-bottom-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+   z-index:-1;
+}
+.footer-container .contact-us{
+    display: inline-block;
+    margin-right: 2rem;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.social{
+   display: inline-block;
+   width: 80%;
+}
+.social .footer-icons{
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 2.5rem;
+}
+
+a { color: inherit; } 
+.social .footer-icons a{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.social .footer-icons a:hover{
+    color: #B93A86;
+}
+
+.footer-container .copyright{
+    font-size: 1.25rem ;
+    margin-top: 1.5rem;
+}
+
+@media screen and (max-width:800px){
+    .social{
+        width: 60%;
+     }
+}
+
+@media screen and (max-width:500px){
+    .social{
+        display: block;
+        margin-top: 2rem;
+        width: 60%;
+     }
+}

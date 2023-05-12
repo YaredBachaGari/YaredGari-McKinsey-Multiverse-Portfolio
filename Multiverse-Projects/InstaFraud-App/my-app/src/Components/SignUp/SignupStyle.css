@@ -1,0 +1,54 @@
+.signup-form{
+    margin: 5% 29%;
+    background-color: #E9E9E9;
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-radius: 2rem;
+    min-width: 240px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.signup-form h1{
+   margin-bottom: 2rem;
+}
+.signup-form .input{
+    margin-top: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.signup-form .input input{
+    width:75%;
+    height: 1.75rem;
+    border-radius: 0.5rem;
+    border: none;
+    text-align: center;
+    height: 3rem;
+    font-size: 1.25rem;
+}
+
+.register-btn .submit-btn{
+    padding: 0.5rem 2rem;
+    border-radius: .5rem;
+    margin-top: 1.25rem;
+    border: solid;
+    font-size: 1.25rem;
+}
+
+.register-btn .submit-btn:hover{
+    background-color: #792BA7;
+    color: #ffffff;
+}
+
+#signinbtn{
+  border: none;
+  color: blue;
+  background-color: #E9E9E9;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 1.75rem;
+  margin-left: 1rem;
+}
+.signup-form h5{
+    font-size: 1.15rem;
+    margin: 0 0.2rem;
+}

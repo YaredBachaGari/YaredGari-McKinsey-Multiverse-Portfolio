@@ -1,0 +1,12 @@
+.tweet-btn{
+    border: none;
+    background-color: #3E71F4;
+    color: #FFFFFF;
+    padding: 0.5rem 1.5rem;
+    margin: 0.5rem auto;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 1.35rem;
+    width:10rem;
+    height: 3rem;
+}

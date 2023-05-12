@@ -1,0 +1,20 @@
+main{
+    background-image: url(../../../public/images/Social-MediaImage.jpeg);
+    background-size:cover;
+    height: 100vh;
+}
+
+.app-name{
+    margin-top: 1.2rem;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.insta{
+    color: #B93A86;
+    font-size: 3rem;
+}
+.faud{
+    color: #792BA7;
+    font-size: 1.5rem;
+    text-decoration: underline double 1px #929292;
+}

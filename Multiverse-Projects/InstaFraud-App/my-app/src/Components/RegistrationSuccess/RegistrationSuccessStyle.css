@@ -1,0 +1,20 @@
+.success-card{
+    padding: 2rem 1rem;
+    text-align: center;
+    background-color:#E9E9E9;
+    width: 300px;
+    margin: 8rem auto;
+}
+.success-card h1{
+    color: green;
+    margin: 2rem;
+}
+.success-card button{
+ background-color: #B93A86;
+ padding: 1rem 2.5rem;
+ color: #E9E9E9;
+ border: none;
+ font-size: 1.25rem;
+ font-weight: bold;
+ border-radius: 0.5rem;
+}

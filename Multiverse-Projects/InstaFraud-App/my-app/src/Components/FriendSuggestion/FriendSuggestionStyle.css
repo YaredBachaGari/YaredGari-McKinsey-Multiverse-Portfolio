@@ -1,0 +1,32 @@
+.suggestion-header{
+    display: flex;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.35rem;
+    margin-left: 1rem;
+}
+.suggestion-header .friends{
+    margin-right: 2rem;
+}
+.suggested-friends{
+    display: flex;
+    justify-content: space-between;
+}
+
+.suggested-friends .follow-btn{
+   border: none;
+   background: none;
+   color: #3E71F4;
+   cursor: pointer;
+}
+.fontAdjuster{
+    font-weight:400;
+}
+
+@media screen and (max-width:860px){
+    .suggestion-header{
+        font-size: 0.95rem;
+        justify-self: left;
+
+    }
+}

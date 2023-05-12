@@ -1,0 +1,56 @@
+main {
+  background-image: url(../../../public/images/Social-MediaImage.jpeg);
+  background-size: cover;
+  height: 100vh;
+}
+.land-page{
+  margin-top: 1rem;
+}
+.app-name {
+  margin-top: 1.2rem;
+  margin-left: 10%;
+  font-weight: bold;
+}
+.app-name .insta {
+  color: #b93a86;
+  font-size: 6rem;
+}
+.faud {
+  color: #792ba7;
+  font-size: 1.5rem;
+  text-decoration: underline double 1px #929292;
+}
+.login-btn {
+  font-size: 2rem;
+  padding: 1rem;
+  border: none;
+  color: blue;
+  font-weight: bold;
+  background: none;
+}
+.signup-btn {
+  font-size: 2rem;
+  padding: 1rem;
+  border: none;
+  color: blue;
+  font-weight: bold;
+  background: none;
+}
+
+.login-btn:hover {
+  background-color: #b93a86;
+  color: aliceblue;
+  text-decoration: underline solid 2px #ffffff;
+}
+.signup-btn:hover {
+    background-color: #b93a86;
+    color: aliceblue;
+    text-decoration: underline solid 2px #ffffff;
+}
+.landingpage {
+  display: flex;
+  justify-content: space-between;
+}
+.auth-btn{
+    margin-right: 5rem;
+}

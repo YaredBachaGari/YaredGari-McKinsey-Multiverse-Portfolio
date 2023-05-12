@@ -1,0 +1,19 @@
+.msgCont{
+    margin:10rem auto;
+    text-align: center;
+}
+.msgCont h1{
+    margin: 2rem auto;
+    font-size: 3rem;
+}
+.msgCont p{
+    font-size: 1.5rem;
+}
+.msgCont button{
+    margin: 2rem auto;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+}

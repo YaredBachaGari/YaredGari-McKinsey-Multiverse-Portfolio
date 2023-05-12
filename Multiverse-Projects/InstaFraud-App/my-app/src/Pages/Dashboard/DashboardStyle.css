@@ -1,0 +1,111 @@
+.dashboardcontainer{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1.25fr;
+    justify-items: center;
+    margin-top: 2rem;
+    scroll-behavior: smooth;
+}
+.sidemenu{
+    display: none;
+}
+.trail{
+    margin-top: 3rem;
+}
+.firstcolumn{
+
+}
+.secondColumn{
+ /* position: relative; */
+ width: 100%;
+}
+.follow-btn{
+    font-size: 1.5rem;
+}
+.follow-btn:hover{
+    cursor: pointer;
+}
+.author img{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.NumberOfFriends {
+    font-size: 1.75rem;
+}
+@media screen and (max-width:830px){
+    .author img{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .post-card .post-content{
+        font-size: 1rem;
+    }
+    .follow-btn{
+        font-size: 1rem;
+    }
+    .dashboardcontainer{
+        grid-template-columns: 1fr 3fr 1.5fr;
+    }
+    .post-card{
+        width: 90%;
+    }
+    .fr-count{
+        margin-left: 1rem;
+    }
+    .trail{
+        justify-content: center;
+        width:80px;
+        height: 2.5rem;
+        cursor: pointer;
+    }
+    .NumberOfFriends {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width:800px){
+    .thirdColumn{
+        display:none;
+    }
+    .dashboardcontainer{
+        grid-template-columns: 1fr 2fr;
+    }
+    
+}
+
+@media screen and (max-width:500px){
+    .dashboardcontainer{
+        grid-template-columns: 1fr 5fr;
+    }
+    .sidemenu{
+        display: block;
+    }
+    .post-card{
+        width: 80%;
+    }
+    .fr-count{
+        display: none;
+    }
+    .tiwt-btn{
+        display: none;
+    }
+    .sidebarNav{
+        display: flex;
+        flex-direction: column;
+        width: 30px;
+        height: 50%;
+        justify-content: space-between;
+        align-content: center;
+        position: fixed;
+        top: 6rem;
+        cursor: pointer;
+    }
+    .logout-avatar{
+        display: none;
+    }
+    .nav-innercontainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 5%;
+    }
+    
+}

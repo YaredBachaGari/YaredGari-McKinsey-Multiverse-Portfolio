@@ -1,0 +1,75 @@
+.post-reaction{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.35rem;
+    margin: 0.5rem 5%;
+  }
+.post-reaction .icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+.post-reaction .icons span{
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  #comment-section > div.post-btn{
+    display: inline-block;
+    width: 18%;
+    border: 1rem;
+    position: absolute;
+    top:0;
+    right:0%;
+    height: 4rem;
+    background-color: #ffffff;
+    border-bottom-right-radius: 1rem;
+    cursor: pointer;
+  }
+  
+  #post-btn{
+    position: absolute;
+    right: 18px;
+    top:1.2rem;
+    background-color: #ffffff;
+    border: none;
+    font-weight: bold;
+    background: none;
+    cursor: pointer;
+    font-size: 1.75rem;
+  }
+  #post-btn:hover{
+    color: rgb(14, 14, 226);
+    
+  }
+  #comment-section > div.post-btn:hover{
+  color:#ffffff;
+  background-color: #E9E9E9;
+  }
+  
+  #comment-section{
+   min-width: 100%;
+   position: relative;
+  }
+  
+  #commentArea{
+    position: relative;
+    width:88%;
+    display: inline-block;
+  }
+  #commentArea textarea{
+    width: 100%;
+    border-color: Transparent;
+    overflow: auto;
+    outline: none;
+    resize: none;
+    height: 4rem;
+    font-size: 1.5rem;
+    border-bottom-left-radius: 1rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+  .icons{
+    cursor: pointer;
+    font-size: 2rem;
+  }
