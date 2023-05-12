@@ -1,31 +1,24 @@
-# InstaFraud App
-
-> This project has an educational goal, but it also mimics some of the features and functionalities that major social networking apps, like Instagram and Twitter, offer.
+# InstaFraud App Project
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-The main goal of this project was to develop a full stack application that can able run accross all environments with the help of Docker. simultaneously show off the skills/abilities we learned during our bootcamp training. Thus the main, features included in this release are, user authentication and authorization( registration, signin and refresh token), role based CRUD operation on different posts, follow/unfollow other users, view profile and users reaction feature such as like and comment. To achieve this we utilized the following tech stacks;
+This project is an InstaFraud social networking application.The major objective of this project was to create a full- stack application for educational purposes that could run in any environment using Docker. At the same time, demonstrate the abilities/skills we acquired during our apprenticeship at Multiverse. This app resembles many of the features we discovered on Instagram and Twitter, as suggested by its name. We are driven to complete this application since the creation of each feature, both on the backend and frontend, will enable us to understand and put what we have learnt into practice.  Accordingly, once the ideation and brainstroming phase has been completed, we created the UML diagrams and the user interface wireframe on Figma to decide the minimum viable product within the given timeframe. Finally, we managed to complete all of the following main features: user authentication and authorization ( registration, signin and refresh token), role based CRUD operation on different posts, follow/unfollow other users, view profile and users reaction feature such as like and comment. To achieve this we utilized the following technology stacks;
 
 ![](header.png)
 
-## Tech Stacks 
-* React
-* Express.js/node
-* Sequelize ORM
-* MySQL
-* Figma
-* Postman
+## Technologies 
+* Javascript - ES6
+* React - version 18.2.0
+* Express.js/node  4.18.2/18.5.0
+* Sequelize ORM - version 6.25.3
+* MySQL - version 2.3.3
+* Figma 
+* Postman 
+* Docker
 
-## Release History
-
-* 0.0.2
-    * Work in progress
-* 0.0.1
-    * The first release
-
-## Development setup
+## Development setup Instructions
 
 For a local development setup, depending on which section of the application you want run, use the following commands to install all dependencies and spin the server. Potentially do this for multiple platforms.
 
@@ -37,21 +30,21 @@ npm start
 ```
 To run back end  
 ```sh
-cd into Instafraud/my-app
+cd into Instafraud/Backend
 npm install
 npm start
 ```
 To run both front and back-end on docker 
 
 ```sh
-cd into Instafraud/my-app
+cd into Instafraud/Backend
 npm install
 cd into Instafraud/my-app
 npm install
 cd into Instafraud
 docker-compose up
 ```
-## Usage example
+## Demo
 
 Here are few screenshots to demonstrate what our app does.
 ![](my-app/public/images/Screen1.png)
